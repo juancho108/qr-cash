@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1084966955215",
+    "firebase_url": "https://cashback-9edfe.firebaseio.com",
+    "project_id": "cashback-9edfe",
+    "storage_bucket": "cashback-9edfe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1084966955215:android:0bdbc715d5be0e6b",
+        "android_client_info": {
+          "package_name": "com.example.cashback"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1084966955215-hbdd0lmdfmctualeunrc9g06roi9budj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxfupxfFtfvVaJ3I_imEqJ4asEen0iWXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1084966955215-hbdd0lmdfmctualeunrc9g06roi9budj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
